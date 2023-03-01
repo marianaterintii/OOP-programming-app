@@ -17,6 +17,5 @@ class App:
     year = 2002
     rating = 4.5
 
-    def appInfo():
-       print (f" app name: {App.name}\n version: {App.version}\n author: { App.author} \n year: {App.year}\n rating: {App.rating}")
+    
 
